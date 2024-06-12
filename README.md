@@ -27,7 +27,7 @@ To use the trained model for inference, simply load the model weights and pass i
 ## Repository Structure
 
 - `data/`: Contains the dataset used for training.
-- `notebooks/`: Contains example notebooks for training and inference.
+- `notebooks/`: Contains notebook for training and inference.
 
 ## Future Work
 
